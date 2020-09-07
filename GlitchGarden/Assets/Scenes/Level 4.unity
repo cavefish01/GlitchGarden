@@ -274,7 +274,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &369615304
 Transform:
   m_ObjectHideFlags: 0
@@ -838,7 +838,7 @@ PrefabInstance:
       objectReference: {fileID: 1846512301}
     - target: {fileID: 1601027043, guid: 932a0c8660199b64fb216d633513d879, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -205.79999
+      value: -205.8
       objectReference: {fileID: 0}
     - target: {fileID: 1601027044, guid: 932a0c8660199b64fb216d633513d879, type: 3}
       propertyPath: m_Enabled
@@ -850,7 +850,7 @@ PrefabInstance:
       objectReference: {fileID: 1846512301}
     - target: {fileID: 1818507178, guid: 932a0c8660199b64fb216d633513d879, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -20
+      value: -20.000015
       objectReference: {fileID: 0}
     - target: {fileID: 1979315275, guid: 932a0c8660199b64fb216d633513d879, type: 3}
       propertyPath: m_Camera
